@@ -33,6 +33,7 @@ namespace OddEvenPosition
             {
                 Console.WriteLine("No");
                 Console.WriteLine($"Diff = {Math.Abs(oddPosition - evenPosition)}");
+                Console.WriteLine("Test");
             }            
         }
     }
