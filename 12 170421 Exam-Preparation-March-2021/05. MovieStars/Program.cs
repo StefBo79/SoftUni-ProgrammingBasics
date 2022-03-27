@@ -1,15 +1,4 @@
-﻿using System;
-
-namespace Balls
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+﻿
 using System;
 
 namespace BarcodeGenerator
